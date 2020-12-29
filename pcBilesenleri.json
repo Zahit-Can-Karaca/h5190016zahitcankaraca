@@ -2,7 +2,7 @@
 
 	{
 		"Adi" : "İşlemci",
-		"Hakkinda" : "<b>İŞLEMCİ</b><br>Bilgisayarın temel işlem birimini oluşturan, belirli mantık ve matematik işlemlerini elektronik olarak yapabilecek biçimde, verilen komutları yorumlayan ve yürüten, yongalardan oluşmuş tümleşik devre.&nbsp;</br>",
+		"Hakkinda" : "<b>İŞLEMCİ NEDİR?</b><br></br><br>Bilgisayarın temel işlem birimini oluşturan, belirli mantık ve matematik işlemlerini elektronik olarak yapabilecek biçimde, verilen komutları yorumlayan ve yürüten, yongalardan oluşmuş tümleşik devre.&nbsp;</br>",
 		"KucukResimURL" : "https://raw.githubusercontent.com/Zahit-Can-Karaca/h5190016zahitcankaraca/main/resimler/islemciLogo.png",
 		"BuyukResimURL" : "https://raw.githubusercontent.com/Zahit-Can-Karaca/h5190016zahitcankaraca/main/resimler/islemciBanner.jpg",
 		"Ureticileri" : "İntel, Amd",
@@ -11,7 +11,7 @@
 	
 	{
 		"Adi" : "Ekran Kartı",
-		"Hakkinda" : "<b>EKRAN KARTI</b><br>Ekran kartı ya da grafik kartı olarak adlandırılan bileşenlerin temel görevi, bilgisayardaki görüntüyü işleyip, monitöre aktarılmasını sağlamaktır. Bu kadar basit şekilde anlatıp kısa bir cümle ile özetlendiğine bakmayın, günümüz teknolojisi sayesinde ekran kartlarına gelen özellikler, hem günümüzü kolaylaştırıyor hem de daha kaliteli sonuçlar elde etmemize yarıyor.&nbsp;</br>",
+		"Hakkinda" : "<b>EKRAN KARTI NEDİR?</b><br></br><br>Ekran kartı ya da grafik kartı olarak adlandırılan bileşenlerin temel görevi, bilgisayardaki görüntüyü işleyip, monitöre aktarılmasını sağlamaktır. Bu kadar basit şekilde anlatıp kısa bir cümle ile özetlendiğine bakmayın, günümüz teknolojisi sayesinde ekran kartlarına gelen özellikler, hem günümüzü kolaylaştırıyor hem de daha kaliteli sonuçlar elde etmemize yarıyor.&nbsp;</br>",
 		"KucukResimURL" : "https://raw.githubusercontent.com/Zahit-Can-Karaca/h5190016zahitcankaraca/main/resimler/ekrankartiLogo.png",
 		"BuyukResimURL" : "https://raw.githubusercontent.com/Zahit-Can-Karaca/h5190016zahitcankaraca/main/resimler/ekrankartiBanner.jpg",
 		"Ureticileri" : "NVDIA, Amd, Msi, Asus, Gigabyte",
@@ -20,7 +20,7 @@
 	
 	{
 		"Adi" : "Anakart",
-		"Hakkinda" : "<b>ANAKART</b><br>Bütün port parçalarına ek olarak, anakartın üzerinde taşıdığı kartın özelliklerini ve çalışma ayalarını belirleyen, tüm bunların bilgisayar üzerinden ayarlanmasını sağlayan BIOS adında entegre bir sistem kullanılıyor. Bunun dışında farklı görevlere sahip birçok dahili ve harici aygıt, anakartın belirli bir düzene bağlı kalarak, diğer donanımlarla uyumlu çalışmasını sağlar.&nbsp;</br>",
+		"Hakkinda" : "<b>ANAKART NEDİR?</b><br></br><br>Bütün port parçalarına ek olarak, anakartın üzerinde taşıdığı kartın özelliklerini ve çalışma ayalarını belirleyen, tüm bunların bilgisayar üzerinden ayarlanmasını sağlayan BIOS adında entegre bir sistem kullanılıyor. Bunun dışında farklı görevlere sahip birçok dahili ve harici aygıt, anakartın belirli bir düzene bağlı kalarak, diğer donanımlarla uyumlu çalışmasını sağlar.&nbsp;</br>",
 		"KucukResimURL" : "https://raw.githubusercontent.com/Zahit-Can-Karaca/h5190016zahitcankaraca/main/resimler/anakartLogo.png",
 		"BuyukResimURL" : "https://raw.githubusercontent.com/Zahit-Can-Karaca/h5190016zahitcankaraca/main/resimler/anakartBanner.jpg",
 		"Ureticileri" : "Gigabyte, Asus, Msi",
@@ -29,7 +29,7 @@
 	
 	{
 		"Adi" : "Power Supply",
-		"Hakkinda" : "<b>POWER SUPPLY</b><br>Power supply, bilgisayarın güç kaynağıdır, bir duvar prizinden elde edilen AC akımı, bilgisayar işlemcisi ve çevre birim ekipmanları için kullanılan düşük voltajlı DC akıma dönüştürülür. Farklı bileşenler farklı voltajlar gerektirdiğinden, güç kaynağının birkaç DC voltajı sağlaması gerekir ve bilgisayardaki her bir bileşen kararlı çalışmasını sağlar.&nbsp;</br>",
+		"Hakkinda" : "<b>POWER SUPPLY NEDİR?</b><br></br><br>Power supply, bilgisayarın güç kaynağıdır, bir duvar prizinden elde edilen AC akımı, bilgisayar işlemcisi ve çevre birim ekipmanları için kullanılan düşük voltajlı DC akıma dönüştürülür. Farklı bileşenler farklı voltajlar gerektirdiğinden, güç kaynağının birkaç DC voltajı sağlaması gerekir ve bilgisayardaki her bir bileşen kararlı çalışmasını sağlar.&nbsp;</br>",
 		"KucukResimURL" : "https://raw.githubusercontent.com/Zahit-Can-Karaca/h5190016zahitcankaraca/main/resimler/powersupplyLogo.png",
 		"BuyukResimURL" : "https://raw.githubusercontent.com/Zahit-Can-Karaca/h5190016zahitcankaraca/main/resimler/powersupplyBanner.jpg",
 		"Ureticileri" : "Corsair, Everest, Aerocool, Rampage",
@@ -38,7 +38,7 @@
 	
 	{
 		"Adi" : "Ram",
-		"Hakkinda" : "<b>RAM</b><br>RAM nedir kısaca açıklamak gerekirse, şu an ya da yakın gelecekte bilgisayarınızın ihtiyaç duyacağı tüm bilgileri geçici olarak depolayan, aşırı hızlı bir bellektir diyebiliriz. RAM bellek, bilgisayarınızın kısa süre içinde ihtiyacı olacağını düşündüğü şeyleri depoladığı ve ihtiyaç anında aşırı hızlı bir şekilde bu bilgileri okuyan donanımdır.&nbsp;</br>",
+		"Hakkinda" : "<b>RAM NEDİR?</b><br></br><br>RAM nedir kısaca açıklamak gerekirse, şu an ya da yakın gelecekte bilgisayarınızın ihtiyaç duyacağı tüm bilgileri geçici olarak depolayan, aşırı hızlı bir bellektir diyebiliriz. RAM bellek, bilgisayarınızın kısa süre içinde ihtiyacı olacağını düşündüğü şeyleri depoladığı ve ihtiyaç anında aşırı hızlı bir şekilde bu bilgileri okuyan donanımdır.&nbsp;</br>",
 		"KucukResimURL" : "https://raw.githubusercontent.com/Zahit-Can-Karaca/h5190016zahitcankaraca/main/resimler/ramLogo.png",
 		"BuyukResimURL" : "https://raw.githubusercontent.com/Zahit-Can-Karaca/h5190016zahitcankaraca/main/resimler/ramBanner.jpg",
 		"Ureticileri" : "Kingstone, G.Skill, Corsair",
@@ -47,7 +47,7 @@
 	
 	{
 		"Adi" : "Ses Kartı",
-		"Hakkinda" : "<b>SES KARTI</b><br>Ses kartları bilgisayarların dış dünya ile bağlantılarını sağlayan ve seslerini dışarıya duyurmak için kullandıkları organlarıdır. Bu birimleri sayesinde bilgisayarlar kullanıcılar ile iletişim kurmaktadırlar ve yaptıkları iş daha zevkli hale gelmektedir. Ses kartı bilgisayardaki dijital ve analog ses işlevlerini yerine getiren elektronik bir birimdir.&nbsp;</br>",
+		"Hakkinda" : "<b>SES KARTI NEDİR?</b><br></br><br>Ses kartları bilgisayarların dış dünya ile bağlantılarını sağlayan ve seslerini dışarıya duyurmak için kullandıkları organlarıdır. Bu birimleri sayesinde bilgisayarlar kullanıcılar ile iletişim kurmaktadırlar ve yaptıkları iş daha zevkli hale gelmektedir. Ses kartı bilgisayardaki dijital ve analog ses işlevlerini yerine getiren elektronik bir birimdir.&nbsp;</br>",
 		"KucukResimURL" : "https://raw.githubusercontent.com/Zahit-Can-Karaca/h5190016zahitcankaraca/main/resimler/seskartiLogo.png",
 		"BuyukResimURL" : "https://raw.githubusercontent.com/Zahit-Can-Karaca/h5190016zahitcankaraca/main/resimler/seskartiBanner.jpg",
 		"Ureticileri" : "S-Link, Asus",
@@ -56,7 +56,7 @@
 	
 	{
 		"Adi" : "Harddisk",
-		"Hakkinda" : "<b>HARDDİSK</b><br>Sabit disk de denilen, bilgisayarın kendisine yüklenen bilgileri sakladığı, depoladığı donanım.&nbsp;</br>",
+		"Hakkinda" : "<b>HARDDİSK NEDİR?</b><br></br><br>Sabit disk de denilen, bilgisayarın kendisine yüklenen bilgileri sakladığı, depoladığı donanım.&nbsp;</br>",
 		"KucukResimURL" : "https://raw.githubusercontent.com/Zahit-Can-Karaca/h5190016zahitcankaraca/main/resimler/harddiskLogo.png",
 		"BuyukResimURL" : "https://raw.githubusercontent.com/Zahit-Can-Karaca/h5190016zahitcankaraca/main/resimler/harddiskBanner.jpg",
 		"Ureticileri" : "Seagate, WD, Toshiba, Samsung",
